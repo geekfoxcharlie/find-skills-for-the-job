@@ -1,0 +1,19 @@
+{
+  "name": "find-skills-for-the-job",
+  "owner": {
+    "name": "geekfoxcharlie"
+  },
+  "metadata": {
+    "description": "Find skills for the job on https://skillpicker.xyz.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "find-skills-for-the-job",
+      "description": "Find skills for the job on SkillPicker.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/find-skills-for-the-job"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Find skills for the job",
+      "description": "Find an Agent Skill for a job on SkillPicker.",
+      "skills": ["find-skills-for-the-job"]
+    }
+  ]
+}
